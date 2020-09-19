@@ -4,9 +4,9 @@
 **chichiohio/chichiohio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Yasmine | 20 | MCR, UK - SF, USA
+Chichi | 20 | MCR, UK - SF, USA
 
-Hey! My name is Yasmine - I am a Machine Learning/Data Science Student. 
+Hey! My name is Chichi - I am a Machine Learning/Data Science Student. 
 
 ## 🚀 Working On:
 Something cool. Will update when ready!
